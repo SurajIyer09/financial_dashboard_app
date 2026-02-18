@@ -36,3 +36,4 @@ else:
     Net Profit: ₹ {profit:,.0f}  
     Profit Margin: {margin:.2f} %
     """)
+
