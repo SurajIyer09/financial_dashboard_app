@@ -51,3 +51,4 @@ else:
 • Current Ratio > 1.5 → Good liquidity  
 • Low Debt Ratio → Lower financial risk  
 """)
+
