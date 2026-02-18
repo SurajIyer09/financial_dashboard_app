@@ -17,3 +17,4 @@ Upload your financial dataset inside the Dashboard page.
 """)
 
 st.info("Navigate using the sidebar →")
+
