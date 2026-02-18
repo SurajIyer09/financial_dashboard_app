@@ -3,3 +3,7 @@ pandas
 numpy
 plotly
 openpyxl
+scikit-learn
+reportlab
+yfinance
+
